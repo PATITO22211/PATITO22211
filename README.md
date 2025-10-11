@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Building the future, one line of code at a time<br>🧪 Founder in progress @ Labbly <br>🚀 Future CEO, not just coding — designing empires <br>
+💻 Building the future, one line of code at a time<br>📈 Founder in progress @ Linkedu <br>🚀 Future CEO, not just coding — designing empires <br>
 
 
 ## 🌐 Socials:
