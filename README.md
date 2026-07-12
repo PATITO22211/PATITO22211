@@ -1,15 +1,192 @@
-# 💫 About Me:
-💻 Building the future, one line of code at a time<br>📈 Founder in progress @ Linkedu <br>🚀 CEO, not just coding — designing empires <br>
+<div align="center">
 
+# 👋 Hey, I'm Darío
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/da_rio.msi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DesconectadosS2) 
+### Software Architect • Founder • Product Builder
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=PATITO22211&theme=radical&hide_border=false)<br/>
+Building AI-powered software ecosystems that solve real-world problems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PATITO22211&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="https://dariomsi.com">
+    <img src="https://img.shields.io/badge/Portfolio-dariomsi.com-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://instagram.com/da_rio.msi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/DesconectadosS2">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=800&lines=Building+software+people+actually+use.;Founder+of+LinkEdu.;Creating+AI-powered+ecosystems.;From+infrastructure+to+beautiful+interfaces."/>
+
+</div>
+
+---
+
+# About Me
+
+I don't just write code.
+
+I design and build complete software ecosystems—from backend architecture and infrastructure to polished user experiences.
+
+My focus is creating scalable products that solve real problems through thoughtful engineering, modern design and artificial intelligence.
+
+Currently building technology for:
+
+- 🎓 Education
+- 🧠 Artificial Intelligence
+- 🩺 Healthcare
+- ☁️ Cloud Infrastructure
+
+---
+
+# Featured Projects
+
+## 🎓 LinkEdu
+
+An AI-powered Learning Management System designed to modernize educational institutions.
+
+**Highlights**
+
+- AI Academic Assistant
+- Predictive analytics
+- White-label architecture
+- Real-time infrastructure
+- Modern UI/UX
+
+---
+
+## 🏢 SEEM
+
+Enterprise platform for educational administration.
+
+Designed to centralize institutional operations while providing intelligent access to academic information.
+
+---
+
+## 🩸 Morfoly
+
+Clinical hematology platform.
+
+A specialized tool that assists laboratory professionals through voice interaction, intelligent analysis and optimized workflows.
+
+---
+
+## ☁️ Upload
+
+Self-hosted cloud platform.
+
+> **Files change. Links don't.**
+
+A permanent sharing system where documents can evolve without breaking existing URLs.
+
+---
+
+# Engineering Philosophy
+
+```text
+Beautiful software is more than beautiful interfaces.
+
+Fast systems deserve elegant experiences.
+
+Good architecture should be invisible.
+
+Every millisecond matters.
+
+Every interaction matters.
+```
+
+---
+
+# Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### Frontend
+
+React • Next.js • Astro • TailwindCSS • Framer Motion
+
+### Backend
+
+FastAPI • Node.js • PostgreSQL • Redis • MongoDB
+
+### Infrastructure
+
+Docker • Linux • Nginx • VPS • Git
+
+### AI
+
+OpenAI • DeepSeek • YOLO • Computer Vision • NLP
+
+---
+
+# Current Focus
+
+```yaml
+building:
+  - LinkEdu
+  - Upload
+  - AI Agents
+  - Modern Infrastructure
+
+learning:
+  - Rust
+  - Distributed Systems
+  - High-performance networking
+
+interests:
+  - Software Architecture
+  - Artificial Intelligence
+  - Product Design
+  - Developer Experience
+```
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PATITO22211&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PATITO22211&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Let's Connect
+
+If you're building something ambitious, I'd love to hear about it.
+
+<p>
+
+<a href="https://dariomsi.com">
+<img src="https://img.shields.io/badge/Website-dariomsi.com-black?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://instagram.com/da_rio.msi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://x.com/DesconectadosS2">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building products, not just projects."
+
+⭐ Thanks for visiting my profile.
+
+</div>
