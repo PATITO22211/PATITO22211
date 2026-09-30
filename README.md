@@ -150,8 +150,7 @@ interests:
 ---
 
 # GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=PATITO22211&theme=dark&hide_border=true&border_radius=6.8&locale=es&timezone=UTC-8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=PATITO22211&theme=dark&hide_border=true&border_radius=6.8&locale=es&timezone=-8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
 # Let's Connect
