@@ -150,14 +150,7 @@ interests:
 ---
 
 # GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PATITO22211&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PATITO22211&theme=tokyonight&hide_border=true"/>
-
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=PATITO22211&theme=dark&hide_border=true&border_radius=6.8&locale=es&timezone=UTC-8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
