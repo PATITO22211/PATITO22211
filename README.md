@@ -113,7 +113,7 @@ React • Next.js • Astro • TailwindCSS • Framer Motion
 
 ### Backend
 
-FastAPI • Rust • Node.js • PostgreSQL • Redis • MongoDB
+FastAPI • Rust (learning) • Node.js • PostgreSQL • Redis • MongoDB
 
 ### Infrastructure
 
